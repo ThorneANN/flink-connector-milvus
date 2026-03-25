@@ -165,7 +165,7 @@ Output jars:
 
 ```xml
 <dependency>
-    <groupId>org.apache.flink</groupId>
+    <groupId>com.thorne.flink</groupId>
     <artifactId>flink-connector-milvus</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
