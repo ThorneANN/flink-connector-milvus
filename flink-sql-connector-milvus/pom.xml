@@ -19,7 +19,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.apache.flink</groupId>
+            <groupId>com.thorne.flink</groupId>
             <artifactId>flink-connector-milvus</artifactId>
             <version>${project.version}</version>
         </dependency>
